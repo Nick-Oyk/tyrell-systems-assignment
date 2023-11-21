@@ -1,5 +1,5 @@
 # Tyrell Systems test
-hello hello
+
 ## 
 This application was built using docker, consisting of a react.js app and node.js app and was completed in 24 hours.
 
